@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "mycarapplication-c0133",
+    "project_number": "541341707260",
+    "name": "MyCarApplication"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541341707260:android:40327000b33856fc",
+        "client_id": "android:android.exemple.com.mycarapplication",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "android.exemple.com.mycarapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541341707260-kn465qidhvbjcjber63urt0hnk1g2u6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.exemple.com.mycarapplication",
+            "certificate_hash": "80CFF41F1AACAB9B6FD1C42306162C0C5C17B436"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
